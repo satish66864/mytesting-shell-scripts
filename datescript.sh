@@ -1,3 +1,5 @@
+# Shell Script for uploading date files to AWS S3 using cli..... 
+
 #!/bin/bash
 echo " Running the S3uploading file script of datescript.sh....."
 I=0
