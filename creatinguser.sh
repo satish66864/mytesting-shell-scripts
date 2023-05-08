@@ -1,3 +1,5 @@
+# Shell Script for creating a Users and Password....
+
 #!/bin/bash
 read -p "Please enter the valid User name: " USER
 echo $USER
