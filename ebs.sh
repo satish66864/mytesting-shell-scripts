@@ -1,3 +1,5 @@
+# Shell Script for creating multiple EBS volumes in single region according to our requirements.....
+
 #!/bin/bash
 echo $@
 for VOL in $@
